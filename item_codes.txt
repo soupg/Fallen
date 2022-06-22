@@ -1,78 +1,122 @@
-1 - wood 
-2 - scrap 
-3 - cloth 
-4 - stone 
-5 - 556 Ammo 
-6 - Pistol Bullets 
-8 - Soda
-9 - Bandages 
-16 - Campfire
-19 - Cooked Pork
-21 - Charcoal
-22 - Metal
-23 - Sulfur
-24 - Furnace
-27 - Building Plan
-28 - Hammer
-29 - LR
-31 - Hiqual
-34 - TC
-35 - Rocket Launcher
-36 - Rockets
-41 - Large Box
-42 - Shelf
-44 - Sleeping Bag
-50 - Gears
-51 - Propane Tank
-52 - Pipe
-53 - Metal Blade
-54 - Spring
-55 - Sheet Metal
-56 - Tarp
-57 - Tech Scrap
-58 - Rope
-59 - Sewing Kit
-60 - Roadsigns
-61 - Semi Body
-62 - Rifle Body
-64 - Leather
-65 - Animal Fat
-66 - Fuel
-70 - C4
-71 - Explocives
-72 - SMG Body
-73 - ???
-74 - Buckshot Ammo
-79 - Tier 4
-80 - Metal Hatchet
-81 - Metal Pickaxe
-85 - Roadsign Kilt
-89 - Blow Torch (lamp)
-90 - Floor Grill
-91 - Metal Door
-92 - Ladder Hatch
-93 - Jail Wall
-94 - Jail Gate
-96 - Garage Door
-
-97 - Metal Chestplate
-98 - Metal Mask
-
-100 - Metal Window
-101 - Hiqual Window
-102 - Glass Window
-
-103 - Hoodie
-104 - Pants
-105 - Boots
-106 - Jacket
-
-111 - Med Kit
-
-114 - Holo Sight
-115 - 4x Scope
-116 - Silencer
-117 - Flashlight
-118 - Laser
-
-121 - Satchel
+1 Wood Log 99
+2 Scrap 99
+3 Cloth 99
+4 Stone 99
+5 5.56mm Bullet 90
+6 9mm Bullet 90
+7 Berries 10
+8 Soda 10
+9 Bandage 1
+10 Metal Ore 99
+11 Sulfur Ore 99
+12 Stone Hatchet 1
+13 Semi Auto Pistol 1
+14 Stone Pickaxe 1
+15 Wooden Spear 1
+16 Camp Fire 1
+17 Assault Rifle 1
+18 Raw Pork 10
+19 Cooked Pork 10
+20 Burnt Pork 10
+21 Charcoal 99
+22 Metal Fragments 99
+23 Sulfur 99
+24 Furnace 1
+25 Small Storage Box 1
+27 Blueprint 1
+28 Hammer 1
+29 LR-300 1
+30 Quality Metal Ore 50
+31 Quality Metal 50
+32 Wooden Door 1
+33 Code Lock 1
+34 Tool Cupboard 1
+35 Rocket Launcher 1
+36 Rocket 3
+37 Rock 1
+38 Bolt Action Rifle 1
+39 Granola Bar 10
+40 Chocolate Bar 10
+41 Large Storage Box 1
+42 Salvaged Shelves 1
+43 Semi Auto Rifle 1
+44 Sleeping Bag 1
+45 Burlap Shirt 1
+46 Burlap Trousers 1
+47 Burlap Shoes 1
+48 Burlap Headwrap 1
+49 Thompson 1
+50 Gears 20
+51 Propane Tank 20
+52 Metal Pipe 20
+53 Metal Blade 20
+54 Spring 20
+55 Sheet Metal 20
+56 Tarp 20
+57 Tech Trash 20
+58 Rope 50
+59 Sewing Kit 20
+60 Road Signs 20
+61 Semi Auto Body 20
+62 Rifle Body 20
+63 Bone Fragments 99
+64 Leather 99
+65 Animal Fat 99
+66 Low Grade Fuel 50
+67 Raw Chicken 10
+68 Cooked Chicken 10
+69 Burnt Chicken 10
+70 Timed Charge 10
+71 Explosives 99
+72 SMG Body 20
+73 Gun Powder 99
+74 Buckshot 90
+75 Waterpipe Shotgun 1
+76 Workbench LV 1 1
+77 Workbench LV 2 1
+78 Workbench LV 3 1
+79 Workbench LV 4 1
+80 Hatchet 1
+81 Pickaxe 1
+82 Arrow 90
+83 Wooden Bow 1
+84 Coffee Can Helmet 1
+85 Road Sign Kilt 1
+86 Road Sign Jacket 1
+87 M249 1
+88 Torch 1
+89 Lantern 1
+90 Floor Grill 1
+91 Sheet Metal Door 1
+92 Ladder Hatch 1
+93 Jail Wall 1
+94 Jail Gate 1
+95 Revolver 1
+96 Garage Door 1
+97 Metal Chestplate 1
+98 Metal Facemask 1
+99 Wooden Window 1
+100 Metal Window 1
+101 Armored Window 1
+102 Bulletproof Window 1
+103 Hoodie 1
+104 Pants 1
+105 Boots 1
+106 Jacket 1
+107 Riot Helmet 1
+108 T-Shirt 1
+109 Long Sleeve Shirt 1
+110 Wooden Double Door 1
+111 Large Medkit 1
+112 Python 1
+113 Handmade Sight 1
+114 Holo Sight 1
+115 4x Scope 1
+116 Supressor 1
+117 Weapon Flashlight 1
+118 Laser 1
+119 Corn 10
+120 Beancan Grenade 10
+121 Satchel Charge 10
+122 Crossbow 1
+1000 OP Blueprint 1
