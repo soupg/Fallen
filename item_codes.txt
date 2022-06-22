@@ -1,0 +1,78 @@
+1 - wood 
+2 - scrap 
+3 - cloth 
+4 - stone 
+5 - 556 Ammo 
+6 - Pistol Bullets 
+8 - Soda
+9 - Bandages 
+16 - Campfire
+19 - Cooked Pork
+21 - Charcoal
+22 - Metal
+23 - Sulfur
+24 - Furnace
+27 - Building Plan
+28 - Hammer
+29 - LR
+31 - Hiqual
+34 - TC
+35 - Rocket Launcher
+36 - Rockets
+41 - Large Box
+42 - Shelf
+44 - Sleeping Bag
+50 - Gears
+51 - Propane Tank
+52 - Pipe
+53 - Metal Blade
+54 - Spring
+55 - Sheet Metal
+56 - Tarp
+57 - Tech Scrap
+58 - Rope
+59 - Sewing Kit
+60 - Roadsigns
+61 - Semi Body
+62 - Rifle Body
+64 - Leather
+65 - Animal Fat
+66 - Fuel
+70 - C4
+71 - Explocives
+72 - SMG Body
+73 - ???
+74 - Buckshot Ammo
+79 - Tier 4
+80 - Metal Hatchet
+81 - Metal Pickaxe
+85 - Roadsign Kilt
+89 - Blow Torch (lamp)
+90 - Floor Grill
+91 - Metal Door
+92 - Ladder Hatch
+93 - Jail Wall
+94 - Jail Gate
+96 - Garage Door
+
+97 - Metal Chestplate
+98 - Metal Mask
+
+100 - Metal Window
+101 - Hiqual Window
+102 - Glass Window
+
+103 - Hoodie
+104 - Pants
+105 - Boots
+106 - Jacket
+
+111 - Med Kit
+
+114 - Holo Sight
+115 - 4x Scope
+116 - Silencer
+117 - Flashlight
+118 - Laser
+
+121 - Satchel
